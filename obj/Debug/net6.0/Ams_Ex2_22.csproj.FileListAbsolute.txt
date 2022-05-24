@@ -1,0 +1,15 @@
+D:\FATEC\AMS_Proj\Ams_Ex2_22\bin\Debug\net6.0\Ams_Ex2_22.exe
+D:\FATEC\AMS_Proj\Ams_Ex2_22\bin\Debug\net6.0\Ams_Ex2_22.deps.json
+D:\FATEC\AMS_Proj\Ams_Ex2_22\bin\Debug\net6.0\Ams_Ex2_22.runtimeconfig.json
+D:\FATEC\AMS_Proj\Ams_Ex2_22\bin\Debug\net6.0\Ams_Ex2_22.dll
+D:\FATEC\AMS_Proj\Ams_Ex2_22\bin\Debug\net6.0\ref\Ams_Ex2_22.dll
+D:\FATEC\AMS_Proj\Ams_Ex2_22\bin\Debug\net6.0\Ams_Ex2_22.pdb
+D:\FATEC\AMS_Proj\Ams_Ex2_22\obj\Debug\net6.0\Ams_Ex2_22.csproj.AssemblyReference.cache
+D:\FATEC\AMS_Proj\Ams_Ex2_22\obj\Debug\net6.0\Ams_Ex2_22.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATEC\AMS_Proj\Ams_Ex2_22\obj\Debug\net6.0\Ams_Ex2_22.AssemblyInfoInputs.cache
+D:\FATEC\AMS_Proj\Ams_Ex2_22\obj\Debug\net6.0\Ams_Ex2_22.AssemblyInfo.cs
+D:\FATEC\AMS_Proj\Ams_Ex2_22\obj\Debug\net6.0\Ams_Ex2_22.csproj.CoreCompileInputs.cache
+D:\FATEC\AMS_Proj\Ams_Ex2_22\obj\Debug\net6.0\Ams_Ex2_22.dll
+D:\FATEC\AMS_Proj\Ams_Ex2_22\obj\Debug\net6.0\ref\Ams_Ex2_22.dll
+D:\FATEC\AMS_Proj\Ams_Ex2_22\obj\Debug\net6.0\Ams_Ex2_22.pdb
+D:\FATEC\AMS_Proj\Ams_Ex2_22\obj\Debug\net6.0\Ams_Ex2_22.genruntimeconfig.cache
